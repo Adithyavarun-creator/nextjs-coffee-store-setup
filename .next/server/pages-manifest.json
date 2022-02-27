@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/createCoffeeStore": "pages/api/createCoffeeStore.js",
+  "/api/favouriteCoffeeStoreById": "pages/api/favouriteCoffeeStoreById.js",
+  "/api/getCoffeeStoreById": "pages/api/getCoffeeStoreById.js",
+  "/api/getCoffeeStoresByLocation": "pages/api/getCoffeeStoresByLocation.js",
+  "/coffee-store/[id]": "pages/coffee-store/[id].js",
+  "/": "pages/index.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
